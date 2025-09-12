@@ -1,10 +1,11 @@
 # DL- Developing a Recurrent Neural Network Model for Stock Prediction
-
+### NAAME : AVINASH T
+### REG NO : 212223230026
 ## AIM
 To develop a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data.
 
 ## THEORY
-
+A Recurrent Neural Network (RNN) is a type of deep learning model designed to handle sequential data, such as time series like stock prices. It processes previous inputs through loops, allowing it to capture temporal dependencies and patterns over time. When used for stock price prediction, the RNN analyzes historical price data to learn trends and make future price estimates. Its ability to remember information across sequences makes it suitable for modeling the dynamic and seasonal nature of stock markets. Overall, RNNs help improve forecast accuracy by leveraging past data to inform future predictions.
 
 ## Neural Network Model
 Include the neural network model diagram.
